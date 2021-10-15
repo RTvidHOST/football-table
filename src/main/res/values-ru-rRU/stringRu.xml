@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Футбольный счёт</string>
+    <string name="second_dot">:</string>
+    <string name="spartak">Спартак</string>
+    <string name="lokomotiv">Локомотив</string>
+    <string name="score_of_match">Счёт</string>
+    <string name="reset_score">Сбросить</string>
+</resources>

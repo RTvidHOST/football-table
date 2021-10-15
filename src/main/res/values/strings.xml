@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Football Score</string>
+    <string name="second_dot">:</string>
+    <string name="spartak">FC SPARTAK</string>
+    <string name="lokomotiv">FC LOKOMOTIV</string>
+    <string name="score_of_match">The score of match</string>
+    <string name="reset_score">Reset score</string>
+    <string name="image_of_spartak" translatable="false">Image of Spartak</string>
+    <string name="image_of_lokomotiv" translatable="false">Image of Lokomotiv</string>
+</resources>
